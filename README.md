@@ -1,7 +1,5 @@
 # Tempest
-A liquidity management protocol inspired by Alpha v2 Vaults, now integrated with Ambient Finance for optimized decentralized finance strategies
-Absolutely! Here's a more detailed description that you can use in your README.md file:
-
+A liquidity management protocol inspired by Alpha v2 Vaults, now integrated with Ambient Finance for optimized decentralized finance strategies.
 ---
 
 # Tempest - Ambient Finance Integration for Liquidity Management
